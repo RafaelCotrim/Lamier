@@ -1,0 +1,16 @@
+{
+    "foam.edit.linkReferenceDefinitions": "withExtensions",
+    "grammarly.hideUnavailablePremiumAlerts": true,
+    "markdownExtended.disabledPlugins": "kbd",
+    "vscodeMarkdownNotes.allowPipedWikiLinks": true,
+    "vscodeMarkdownNotes.lowercaseNewNoteFilenames": false,
+    "vscodeMarkdownNotes.noteCompletionConvention": "toSpaces",
+    "vscodeMarkdownNotes.previewLabelStyling": "label",
+    "dmbinder.autogenerateOnRender": false,
+    
+    "markdown.preview.scrollEditorWithPreview": false,
+    "markdown.preview.scrollPreviewWithEditor": false,
+    "markdown.preview.markEditorSelection": false,
+    "dmbinder.homebrewPreviewEnabled": true,
+
+}

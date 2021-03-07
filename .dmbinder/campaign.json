@@ -1,0 +1,16 @@
+{
+    "campaignName": "test",
+    "sourcePaths": [
+        "./Sources"
+    ],
+    "templatePaths": [
+        "./Templates"
+    ],
+    "componentPaths": [
+        "./Components"
+    ],
+    "generatorPaths": [
+        "./Generators"
+    ],
+    "outDirectory": "./PDFs"
+}
