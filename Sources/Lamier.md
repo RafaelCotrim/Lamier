@@ -37,7 +37,7 @@ Magic was reserved to the elite, who bent nature to their will. Powerful star re
 However, this golden age was built on the backs of the Steorra, the people of the stars. The Steorra were the original magic users and their civilization was composed of small nomad groups that traveled the polar regions. Although individually powerful, they didn't have the numbers to combat the ceaseless attacks of the other nations.
 After being captured they were forced to share their secrets, teaching the basics of magic to their captors.
 
-Although the other races had gained the knowledge of how to read the stars, they had great difficulty controlling the auroras. To do so they require the use of catalysts which often were the Steorra themselves. They finally discovered what was missing after the first half Steorra children grew up and inherited their parent's powers. After that, some nobles had children with the Steorra in secrete and their offspring created some of the longest-lasting empires. Eventually, these bloodlines spread through all major noble families.
+Although the other races had gained the knowledge of how to read the stars, they had great difficulty controlling the auroras. To do so they require the use of catalysts which often were the Steorra themselves. They finally discovered what was missing after the first half Steorra children grew up and inherited their parent's powers. After that, some nobles had children with the Steorra in secret and their offspring created some of the longest-lasting empires. Eventually, these bloodlines spread through all major noble families.
 
 Still, the majority of the Steorra were kept in captivity and farmed like cattle. After other forms of magic were discovered, their use as catalysts on the construction of spells or reactions grew exponentially, which often had fatal results. As a result, they became highly valuable commodities.
 
@@ -57,7 +57,7 @@ After many years, she continued south and attacked many cities along the way, im
 
 ##### Forgotten Archon
 
-If the Storm Mother's story were known to the inhabitant of the underground, she would likely be considered the first Archon, taking the title from Oucho, The Protector.
+If the Storm Mother's story were known to the inhabitants of the underground, she would likely be considered the first Archon, taking the title from Oucho, The Protector.
 
 </div>
 
@@ -67,15 +67,15 @@ The 25 000 souls she collected formed a vortex below the auroras and covered the
 
 ### Refuge Bellow
 
-Seeing the disaster coming, 9 nations came together to perform the largest terrain manipulation ever attempted. Hundreds of star readers excavated deep caves and created cristal pilar that went from the ceiling of the caves to above the clouds. These would transport light to the underground.
+Seeing the disaster coming, 9 nations came together to perform the largest terrain manipulation ever attempted. Hundreds of star readers excavated deep caves and created crystal pilar that went from the ceiling of the caves to above the clouds. These would transport light to the underground.
 
 Millions of people fled into the caves and passages were closed as the storm approached. The Storm Mother, seeing that she would not be able to kill everyone before they sealed off the last entrance, filled the bodies of 50 dead people with her magic. They became her puppets and she sent them with the last refugees. Once all the entrances were sealed, she released her magic from inside.
 
-Although she was not able to store enough magic in the bodies to kill everyone or break the seal, she was able to create another curse. She whipped the memory of everyone inside the caves in the hope that they would break the seals someday, allowing her to enter and finish her work. She now periodically searches the whole planet, looking for a way to get inside.
+Although she was not able to store enough magic in the bodies to kill everyone or break the seal, she was able to create another curse. She wiped the memory of everyone inside the caves in the hope that they would break the seals someday, allowing her to enter and finish her work. She now periodically searches the whole planet, looking for a way to get inside.
 
 ### Ethernal Storm
 
-The Storm Mother is so methodical in her work that all animals and plants have been completely eradicated from the surface, including the ones that live deep in the oceans. She has poisoned the waters and eroded the mountains. The erosion covered vast areas of the surface with coarse sand dunes. These dunes are flooded regularly by the periodic rains and the algae that live there serve as the last bastion of life on the surface. The poles still suffer under a perpetual storm that draws power from the auroras. The only things capable o surviving her rath were the cristal pillars now known as Luminars.
+The Storm Mother is so methodical in her work that all animals and plants have been completely eradicated from the surface, including the ones that live deep in the oceans. She has poisoned the waters and eroded the mountains. The erosion covered vast areas of the surface with coarse sand dunes. These dunes are flooded regularly by the periodic rains and the algae that live there serve as the last bastion of life on the surface. The poles still suffer under a perpetual storm that draws power from the auroras. The only things capable o surviving her wrath were the crystal pillars now known as Luminars.
 
 ```
 ```
