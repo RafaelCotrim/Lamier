@@ -87,7 +87,7 @@ ___
   style='width:325px' />
 > ___
 > - **Wind speed:** 143 Km/h
-> - **Radius:** 16 000 Km
+> - **Radius:** 2 500 Km
 
 
   
